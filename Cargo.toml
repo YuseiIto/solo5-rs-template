@@ -1,0 +1,13 @@
+[package]
+name = "my_solo5_rs_project"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+solo5-rs = "0.1.0"
+solo5-sys ="0.1.0"
+
+[lib]
+crate-type = ["staticlib"]
