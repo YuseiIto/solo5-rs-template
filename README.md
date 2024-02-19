@@ -1,5 +1,6 @@
 # solo5-rs-template
-Solo5-rs Unikernel template
+
+[Solo5-rs](https://github.com/YuseiIto/solo5-rs) Unikernel template
 
 
 ### Getting Started
@@ -13,11 +14,11 @@ USE_DOCKER = true
 
 *Note: You can only build the project and can't run the artifact with dockerized toolchain.*
 
-5. Build
+4. Build
 
 Run `make` and confirm that the artifact `kernel.hvt` is generated.
 
-4. Happy hacking!
+5. Happy hacking!
 
 You can start coding by updating `src/lib.rs`
 
