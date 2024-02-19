@@ -3,3 +3,4 @@ Cargo.lock
 *.hvt
 manifest.c
 *.o
+.image-built
